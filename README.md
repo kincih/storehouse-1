@@ -1,2 +1,2 @@
 # storehouse-1
-NO.1 storehouse
+这是一个初学者的新建仓库
